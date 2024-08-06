@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "de7de854-5acc-4456-8092-6483b605e5e6": {
+      "ProjectGuid": "de7de854-5acc-4456-8092-6483b605e5e6",
+      "DisplayName": "Color Dialog",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2de19e2f-9f70-4d58-84a5-2bef2a7c3b61": {
+      "ProjectGuid": "2de19e2f-9f70-4d58-84a5-2bef2a7c3b61",
+      "DisplayName": "Progress Bar Updated",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

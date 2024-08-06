@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "31a5f44a-1e08-4fef-80fe-60766678485f": {
+      "ProjectGuid": "31a5f44a-1e08-4fef-80fe-60766678485f",
+      "DisplayName": "Food Menu",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

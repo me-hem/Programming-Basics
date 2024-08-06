@@ -1,0 +1,15 @@
+import java.util.*;
+
+public class Linked_List
+{
+	public static void main(String[] s)
+	{
+		LinkedList list = new LinkedList();
+		list.addFirst("Me");
+		list.addLast("Hem");
+		
+		System.out.println(list.getFirst());
+		System.out.println(list.getLast());
+	}
+	
+}

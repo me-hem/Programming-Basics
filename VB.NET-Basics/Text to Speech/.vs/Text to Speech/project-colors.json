@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b16a9195-cbac-4444-8cbe-dbc27da7179e": {
+      "ProjectGuid": "b16a9195-cbac-4444-8cbe-dbc27da7179e",
+      "DisplayName": "Text to Speech",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

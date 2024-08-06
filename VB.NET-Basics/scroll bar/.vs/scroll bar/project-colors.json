@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4af44fd8-c1f9-4adc-a4d6-2d4164523610": {
+      "ProjectGuid": "4af44fd8-c1f9-4adc-a4d6-2d4164523610",
+      "DisplayName": "scroll bar",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

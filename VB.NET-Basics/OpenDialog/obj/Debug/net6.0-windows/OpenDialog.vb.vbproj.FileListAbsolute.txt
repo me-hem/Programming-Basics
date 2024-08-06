@@ -1,0 +1,14 @@
+C:\Users\sunny sharma\Documents\vb.net practice\OpenDialog.vb\obj\Debug\net6.0-windows\OpenDialog.vb.vbproj.AssemblyReference.cache
+C:\Users\sunny sharma\Documents\vb.net practice\OpenDialog.vb\obj\Debug\net6.0-windows\OpenDialog.vb.Form1.resources
+C:\Users\sunny sharma\Documents\vb.net practice\OpenDialog.vb\obj\Debug\net6.0-windows\OpenDialog.vb.vbproj.GenerateResource.cache
+C:\Users\sunny sharma\Documents\vb.net practice\OpenDialog.vb\obj\Debug\net6.0-windows\OpenDialog.vb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunny sharma\Documents\vb.net practice\OpenDialog.vb\obj\Debug\net6.0-windows\OpenDialog.vb.AssemblyInfoInputs.cache
+C:\Users\sunny sharma\Documents\vb.net practice\OpenDialog.vb\obj\Debug\net6.0-windows\OpenDialog.vb.AssemblyInfo.vb
+C:\Users\sunny sharma\Documents\vb.net practice\OpenDialog.vb\obj\Debug\net6.0-windows\OpenDialog.vb.vbproj.CoreCompileInputs.cache
+C:\Users\sunny sharma\Documents\Hem projetcs\OpenDialog.vb\obj\Debug\net6.0-windows\OpenDialog.vb.vbproj.AssemblyReference.cache
+C:\Users\sunny sharma\Documents\Hem projetcs\OpenDialog.vb\obj\Debug\net6.0-windows\OpenDialog.vb.Form1.resources
+C:\Users\sunny sharma\Documents\Hem projetcs\OpenDialog.vb\obj\Debug\net6.0-windows\OpenDialog.vb.vbproj.GenerateResource.cache
+C:\Users\sunny sharma\Documents\Hem projetcs\OpenDialog.vb\obj\Debug\net6.0-windows\OpenDialog.vb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunny sharma\Documents\Hem projetcs\OpenDialog.vb\obj\Debug\net6.0-windows\OpenDialog.vb.AssemblyInfoInputs.cache
+C:\Users\sunny sharma\Documents\Hem projetcs\OpenDialog.vb\obj\Debug\net6.0-windows\OpenDialog.vb.AssemblyInfo.vb
+C:\Users\sunny sharma\Documents\Hem projetcs\OpenDialog.vb\obj\Debug\net6.0-windows\OpenDialog.vb.vbproj.CoreCompileInputs.cache

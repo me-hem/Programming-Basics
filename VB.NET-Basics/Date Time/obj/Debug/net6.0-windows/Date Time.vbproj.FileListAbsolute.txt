@@ -1,0 +1,16 @@
+C:\Users\sunny sharma\Documents\Hem projetcs\Date Time\bin\Debug\net6.0-windows\Date Time.exe
+C:\Users\sunny sharma\Documents\Hem projetcs\Date Time\bin\Debug\net6.0-windows\Date Time.deps.json
+C:\Users\sunny sharma\Documents\Hem projetcs\Date Time\bin\Debug\net6.0-windows\Date Time.runtimeconfig.json
+C:\Users\sunny sharma\Documents\Hem projetcs\Date Time\bin\Debug\net6.0-windows\Date Time.dll
+C:\Users\sunny sharma\Documents\Hem projetcs\Date Time\bin\Debug\net6.0-windows\ref\Date Time.dll
+C:\Users\sunny sharma\Documents\Hem projetcs\Date Time\bin\Debug\net6.0-windows\Date Time.pdb
+C:\Users\sunny sharma\Documents\Hem projetcs\Date Time\obj\Debug\net6.0-windows\Date_Time.Form1.resources
+C:\Users\sunny sharma\Documents\Hem projetcs\Date Time\obj\Debug\net6.0-windows\Date Time.vbproj.GenerateResource.cache
+C:\Users\sunny sharma\Documents\Hem projetcs\Date Time\obj\Debug\net6.0-windows\Date Time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunny sharma\Documents\Hem projetcs\Date Time\obj\Debug\net6.0-windows\Date Time.AssemblyInfoInputs.cache
+C:\Users\sunny sharma\Documents\Hem projetcs\Date Time\obj\Debug\net6.0-windows\Date Time.AssemblyInfo.vb
+C:\Users\sunny sharma\Documents\Hem projetcs\Date Time\obj\Debug\net6.0-windows\Date Time.vbproj.CoreCompileInputs.cache
+C:\Users\sunny sharma\Documents\Hem projetcs\Date Time\obj\Debug\net6.0-windows\Date Time.dll
+C:\Users\sunny sharma\Documents\Hem projetcs\Date Time\obj\Debug\net6.0-windows\ref\Date Time.dll
+C:\Users\sunny sharma\Documents\Hem projetcs\Date Time\obj\Debug\net6.0-windows\Date Time.pdb
+C:\Users\sunny sharma\Documents\Hem projetcs\Date Time\obj\Debug\net6.0-windows\Date Time.genruntimeconfig.cache

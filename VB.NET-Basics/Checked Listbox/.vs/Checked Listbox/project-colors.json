@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d04f5b26-f714-4f05-b912-7647ad5198e8": {
+      "ProjectGuid": "d04f5b26-f714-4f05-b912-7647ad5198e8",
+      "DisplayName": "Checked Listbox",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

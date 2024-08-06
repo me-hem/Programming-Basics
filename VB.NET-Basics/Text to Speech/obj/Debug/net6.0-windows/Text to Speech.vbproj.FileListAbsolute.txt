@@ -1,0 +1,16 @@
+C:\Users\sunny sharma\Documents\Hem projetcs\Text to Speech\bin\Debug\net6.0-windows\Text to Speech.exe
+C:\Users\sunny sharma\Documents\Hem projetcs\Text to Speech\bin\Debug\net6.0-windows\Text to Speech.deps.json
+C:\Users\sunny sharma\Documents\Hem projetcs\Text to Speech\bin\Debug\net6.0-windows\Text to Speech.runtimeconfig.json
+C:\Users\sunny sharma\Documents\Hem projetcs\Text to Speech\bin\Debug\net6.0-windows\Text to Speech.dll
+C:\Users\sunny sharma\Documents\Hem projetcs\Text to Speech\bin\Debug\net6.0-windows\ref\Text to Speech.dll
+C:\Users\sunny sharma\Documents\Hem projetcs\Text to Speech\bin\Debug\net6.0-windows\Text to Speech.pdb
+C:\Users\sunny sharma\Documents\Hem projetcs\Text to Speech\obj\Debug\net6.0-windows\Text_to_Speech.Form1.resources
+C:\Users\sunny sharma\Documents\Hem projetcs\Text to Speech\obj\Debug\net6.0-windows\Text to Speech.vbproj.GenerateResource.cache
+C:\Users\sunny sharma\Documents\Hem projetcs\Text to Speech\obj\Debug\net6.0-windows\Text to Speech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunny sharma\Documents\Hem projetcs\Text to Speech\obj\Debug\net6.0-windows\Text to Speech.AssemblyInfoInputs.cache
+C:\Users\sunny sharma\Documents\Hem projetcs\Text to Speech\obj\Debug\net6.0-windows\Text to Speech.AssemblyInfo.vb
+C:\Users\sunny sharma\Documents\Hem projetcs\Text to Speech\obj\Debug\net6.0-windows\Text to Speech.vbproj.CoreCompileInputs.cache
+C:\Users\sunny sharma\Documents\Hem projetcs\Text to Speech\obj\Debug\net6.0-windows\Text to Speech.dll
+C:\Users\sunny sharma\Documents\Hem projetcs\Text to Speech\obj\Debug\net6.0-windows\ref\Text to Speech.dll
+C:\Users\sunny sharma\Documents\Hem projetcs\Text to Speech\obj\Debug\net6.0-windows\Text to Speech.pdb
+C:\Users\sunny sharma\Documents\Hem projetcs\Text to Speech\obj\Debug\net6.0-windows\Text to Speech.genruntimeconfig.cache

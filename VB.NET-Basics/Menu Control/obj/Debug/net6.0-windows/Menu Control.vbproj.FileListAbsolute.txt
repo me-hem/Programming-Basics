@@ -1,0 +1,17 @@
+C:\Users\sunny sharma\Documents\Hem projetcs\Menu Control\bin\Debug\net6.0-windows\Menu Control.exe
+C:\Users\sunny sharma\Documents\Hem projetcs\Menu Control\bin\Debug\net6.0-windows\Menu Control.deps.json
+C:\Users\sunny sharma\Documents\Hem projetcs\Menu Control\bin\Debug\net6.0-windows\Menu Control.runtimeconfig.json
+C:\Users\sunny sharma\Documents\Hem projetcs\Menu Control\bin\Debug\net6.0-windows\Menu Control.dll
+C:\Users\sunny sharma\Documents\Hem projetcs\Menu Control\bin\Debug\net6.0-windows\ref\Menu Control.dll
+C:\Users\sunny sharma\Documents\Hem projetcs\Menu Control\bin\Debug\net6.0-windows\Menu Control.pdb
+C:\Users\sunny sharma\Documents\Hem projetcs\Menu Control\obj\Debug\net6.0-windows\Menu_Control.Form1.resources
+C:\Users\sunny sharma\Documents\Hem projetcs\Menu Control\obj\Debug\net6.0-windows\Menu Control.vbproj.GenerateResource.cache
+C:\Users\sunny sharma\Documents\Hem projetcs\Menu Control\obj\Debug\net6.0-windows\Menu Control.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunny sharma\Documents\Hem projetcs\Menu Control\obj\Debug\net6.0-windows\Menu Control.AssemblyInfoInputs.cache
+C:\Users\sunny sharma\Documents\Hem projetcs\Menu Control\obj\Debug\net6.0-windows\Menu Control.AssemblyInfo.vb
+C:\Users\sunny sharma\Documents\Hem projetcs\Menu Control\obj\Debug\net6.0-windows\Menu Control.vbproj.CoreCompileInputs.cache
+C:\Users\sunny sharma\Documents\Hem projetcs\Menu Control\obj\Debug\net6.0-windows\Menu Control.dll
+C:\Users\sunny sharma\Documents\Hem projetcs\Menu Control\obj\Debug\net6.0-windows\ref\Menu Control.dll
+C:\Users\sunny sharma\Documents\Hem projetcs\Menu Control\obj\Debug\net6.0-windows\Menu Control.pdb
+C:\Users\sunny sharma\Documents\Hem projetcs\Menu Control\obj\Debug\net6.0-windows\Menu Control.genruntimeconfig.cache
+C:\Users\sunny sharma\Documents\Hem projetcs\Menu Control\obj\Debug\net6.0-windows\Menu Control.vbproj.AssemblyReference.cache
